@@ -1,2 +1,2 @@
-#Razorpay Clone
-This is a Razorpay clone using only HTML & CSS
+
+This is a Razorpay clone using only HTML & Tailwind CSS
